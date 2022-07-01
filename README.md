@@ -1,9 +1,10 @@
-# Distributed Machine Learning with Ray
-
-> Scaling AI Applications in Python with the Ray Framework
 
 [![Twitter Follow badge](https://img.shields.io/twitter/follow/psychothan?color=%231DA1F2&label=%40psychothan&style=flat-square)](https://twitter.com/psychothan)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCi0Hd3U6xb4V0ApUhAIfu9Q?color=%23FF0000&logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q)
+
+# Distributed Machine Learning with Ray
+
+> Scaling AI Applications in Python with the Ray Framework
 
 ## Overview
 
